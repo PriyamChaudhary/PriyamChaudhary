@@ -24,6 +24,6 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyamCSE&show_icons=true&theme=dark" alt="Priyam's stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyamCSE&theme=dark" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyamChaudhary&show_icons=true&theme=dark" alt="Priyam's stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyamChaudhary&theme=dark" alt="streak"/>
 </p>
