@@ -58,9 +58,9 @@
 
 ---
 
-<h2>🐍 Watch the Snake Eat My Contributions!</h2>
+<!-- <h2>🐍 Watch the Snake Eat My Contributions!</h2>
 
-![Snake eating my contributions](./dist/github-snake-dark.svg)
+![Snake eating my contributions](./dist/github-snake-dark.svg) -->
 
 ---
 
