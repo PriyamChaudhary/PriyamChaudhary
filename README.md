@@ -62,8 +62,6 @@
 
 ![Snake eating my contributions](./dist/github-snake-dark.svg) -->
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PriyamChaudhary&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
